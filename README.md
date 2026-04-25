@@ -100,16 +100,6 @@ To build a regression model that can predict stock prices based on features such
 
 ---
 
-## 📷 Visualizations
-
-### 📊 Stock Price Trend
-*(Add image in /images folder)*
-
-### 📈 Actual vs Predicted Prices
-*(Add image in /images folder)*
-
----
-
 ## 🚀 Future Improvements
 - Use advanced models (Random Forest, LSTM, XGBoost)
 - Add technical indicators (Moving Average, RSI)
