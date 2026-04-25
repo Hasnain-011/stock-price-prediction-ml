@@ -124,5 +124,19 @@ Aspiring AI/ML Engineer 🚀
 
 ---
 
+## 📸 Output Screenshot
+
+<img width="1590" height="566" alt="image" src="https://github.com/user-attachments/assets/adea8353-6e1c-4aab-9c83-039c50f03164" />
+
+<img width="748" height="814" alt="image" src="https://github.com/user-attachments/assets/c1053069-b617-45d2-bcaf-cf9a21bdcd6b" />
+
+<img width="1198" height="787" alt="image" src="https://github.com/user-attachments/assets/72d7e269-c3d4-4b30-9d56-012820f62c0e" />
+
+<img width="596" height="564" alt="image" src="https://github.com/user-attachments/assets/039db63d-bf9d-4126-bd0b-d55f3b684999" />
+
+<img width="1229" height="799" alt="image" src="https://github.com/user-attachments/assets/af1902e3-db97-41fe-93c0-d530a13f9b2a" />
+
+<img width="581" height="170" alt="image" src="https://github.com/user-attachments/assets/23255b2a-f6b4-4b92-847e-3de92d4688c2" />
+
 ## ⭐ Support
 If you found this project useful, give it a ⭐ and connect with me!
